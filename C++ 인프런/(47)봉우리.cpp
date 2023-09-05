@@ -1,43 +1,30 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include<iostream>
+#include<vector>
 
 using namespace std;
 
-int main(void)
-{
-	int n, i, j, t, count = 0;
-	cin >> n;
+int main(){
+    int n, count =0;
+    cin >> n;
+    vector<vector<int>> arr(n+2, vector<int>(n+2,0));
 
-	vector<vector<int>> vInt;
-	vector<int> vTemp;
+    for(int i = 1; i<=n; i++){
+        for(int j = 1; j <= n; j++){
+            int temp = 0;
+            cin >> temp;
+            arr[i][j] = temp;
+        }
+    }
 
-	for (i = 0; i < n + 2; ++i)
-	{
-		vTemp.clear();
-		for (j = 0; j < n + 2; ++j)
-		{
-			if (i == 0 || i == n + 1 || j == 0 || j == n + 1) vTemp.push_back(0);
-			else {
-				cin >> t;
-				vTemp.push_back(t);
-			}
-		}
-		vInt.push_back(vTemp);
-	}
-
-	for (i = 1; i <= n; ++i)
-	{
-		for (j = 1; j <= n; ++j)
-		{
-			t = vInt[i][j];
-			if (vInt[i - 1][j] < t && vInt[i + 1][j] < t &&
-				vInt[i][j - 1] < t && vInt[i][j + 1] < t)
-				++count;
-		}
-	}
-
-	cout << count << endl;
-
-	return 0;
+    for(int i = 1; i<=n; i++){
+        for(int j =1; j <=n; j++){
+            if(arr[i][j] >arr[i-1][j] &&
+                arr[i][j] >arr[i+1][j] &&
+                arr[i][j] >arr[i][j-1] &&
+                arr[i][j] >arr[i+1][j]){
+                    count++;
+            }
+        }
+    }
+    cout << count;
 }
