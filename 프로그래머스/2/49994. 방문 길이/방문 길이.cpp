@@ -19,12 +19,9 @@ int solution(string dirs) {
         }else{
             continue;
         }
-        if(M.find(make_pair(make_pair(now_x,now_y),make_pair(next_x,next_y))) == M.end()
-          && M.find(make_pair(make_pair(next_x,next_y),make_pair(now_x,now_y)))==M.end()) {
-            
-            M.insert({make_pair(make_pair(now_x,now_y),make_pair(next_x,next_y)), true});
-            answer++;// 현재좌표와 다음좌표 등록
-    
+        if (!M[{ { now_x, now_y }, { next_x, next_y } }] && !M[{ { next_x, next_y }, { now_x, now_y } }]) {
+            M[{ { now_x, now_y }, { next_x, next_y } }] = true;
+            answer++;
         }
         now_x= next_x; now_y = next_y;
     }
