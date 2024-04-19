@@ -1,61 +1,19 @@
-#include <iostream>
-#include <vector>
-using namespace std;
+#include <stdio.h>
 
-vector<int> temp, numbers;
+int main(int argc, char *argv[]) 
+{ 
+    int a[4] = {0, 2, 4, 8}; 
+    int b[3] = {}; 
+    int i = 0; // i를 0으로 초기화
+    int sum = 0;
 
-void merge(vector<int>& arr, int first, int middle, int last);
-void merge_sort(vector<int>& arr, int first, int last) {
-    if (first < last) {
-        int middle = ((first + last) / 2);
-        merge_sort(arr, first, middle);
-        merge_sort(arr, middle + 1, last);
-        merge(arr, first, middle, last);
-    }
-}
+    for (i = 1; i < 4; i++) // i를 초기화한 후에 반복문 시작
+    {
+        int* p1 = a + i; // p1을 반복문 내부에 정의
+        b[i-1] = p1 - (a + i - 1); // b[i-1]에 p1과 a[i-1] 사이의 거리 할당
+        sum += b[i-1] + a[i]; // sum에 b[i-1] + a[i] 더하기
+    } 
 
-void merge(vector<int>& arr, int first, int middle, int last) {
-    int i = first, j = middle + 1;
-    while (i <= middle && j <= last) {
-        if (arr[i] <= arr[j]) {
-            temp.push_back(arr[i++]);
-        }
-        else {
-            temp.push_back(arr[j++]);
-        }
-    }
-
-    while (i <= middle) {
-        temp.push_back(arr[i++]);
-    }
-
-    while (j <= last) {
-        temp.push_back(arr[j++]);
-    }
-
-    i = first;
-    for (int k = 0; k < temp.size(); ++k) {
-        arr[i++] = temp[k];
-            numbers.push_back(arr[i - 1]);
-    }
-    temp.clear(); 
-}
-
-int main() {
-    int N = 0, K = 0;
-
-    cin >> N >> K;
-    vector<int> arr(N);
-
-    for (int i = 0; i < N; i++) {
-        cin >> arr[i];
-    }
-
-    merge_sort(arr, 0, N - 1);
-    if (K <= numbers.size())
-        cout << numbers[K - 1]; 
-    else
-        cout << -1;
-
-    return 0;
+    printf("%d", sum); 
+    return 0; 
 }
