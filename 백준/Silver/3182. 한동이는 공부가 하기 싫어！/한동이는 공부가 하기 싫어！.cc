@@ -6,7 +6,6 @@ using namespace std;
 
 vector<int> adj;
 vector<bool> visited;
-vector<int> depth;
 
 int findDepth(int node) {
     if (visited[node]) return 0; // 이미 방문한 노드면 더 이상 방문하지 않음
