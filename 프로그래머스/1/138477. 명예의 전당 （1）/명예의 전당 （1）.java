@@ -5,12 +5,10 @@ class Solution {
         List<Integer> list = new ArrayList<>();
         for(int i : score){
             pq.add(i);
-            if(pq.size() > k){
-                pq.remove();
-                list.add(pq.peek());
-            }else{
-                list.add(pq.peek());
+            if(pq.size() > k) {
+                pq.poll();
             }
+            list.add(pq.peek());
         }
         return list.stream().mapToInt(i -> i).toArray();
         }
