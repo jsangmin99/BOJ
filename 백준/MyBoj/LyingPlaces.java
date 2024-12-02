@@ -1,3 +1,4 @@
+package MyBoj;
 import java.util.Scanner;
 
 public class LyingPlaces {
