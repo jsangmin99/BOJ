@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/jeonsangmin/vscode/BOJ/백준/test.java","tests":[{"id":1717738872317,"input":"3\nWatanabE\nITO\nYamaMoto","output":"watanabe\nito\nyamamoto"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jeonsangmin/vscode/BOJ/백준/test.java","group":"local","local":true}

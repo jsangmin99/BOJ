@@ -1,37 +1,30 @@
-#include<iostream>
+#include <iostream>
+#include <vector>
 using namespace std;
-int main(){
+
+int main() {
     int n;
-    int result = 0;
-    vector<vector<int>> v;
     cin >> n;
-    int x[n], y[n], xy[n][n];
-    for(int i =0; i <n; i++){
-        cin >> x[i];
-    }
-    for(int i =0; i <n; i++){
-        cin >> y[i];
+    vector<int> front_height(n);
+    vector<int> side_height(n);
+
+    for (int i = 0; i < n; i++) {
+        cin >> front_height[i];
     }
 
-    for(int i = 0; i < n; i++ ){
-        for(int j =0; j < n; j++){
-            xy[i][j] = x[i];
+    for (int i = 0; i < n; i++) {
+        cin >> side_height[i];
+    }
+
+    int max_blocks = 0;
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            int min_height = min(front_height[i], side_height[j]);
+            max_blocks += min_height; 
         }
     }
 
-    for(int i =0; i < n; i++){
-        for(int j =0; j < n; j++){
-            if(xy[i][j] > y[n-i-1]){
-                xy[i][j] = y[n-i-1];
-            }
-        }
-    }
-    for(int i=0; i<n; i++){
-		for(int j=0; j<n; j++){
-            cout << xy[i][j] << " ";
-			result += xy[i][j];
-		}
-        cout << "\n";
-	}
-    cout << result;
+    cout << max_blocks << endl; 
+    return 0;
 }

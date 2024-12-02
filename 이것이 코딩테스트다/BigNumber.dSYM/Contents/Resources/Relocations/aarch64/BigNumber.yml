@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jeonsangmin/vscode/BOJ/이것이 코딩테스트다/BigNumber"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C58, symSize: 0x1E0 }
+  - { offsetInCU: 0xB25, offset: 0xB25, size: 0x8, addend: 0x0, symName: __ZNSt3__14sortB7v160006IPiEEvT_S2_, symObjAddr: 0x1E0, symBinAddr: 0x100003E38, symSize: 0x2C }
+  - { offsetInCU: 0xB67, offset: 0xB67, size: 0x8, addend: 0x0, symName: __ZNSt3__14sortB7v160006IPiNS_6__lessIiiEEEEvT_S4_T0_, symObjAddr: 0x20C, symBinAddr: 0x100003E64, symSize: 0x30 }
+  - { offsetInCU: 0xBC1, offset: 0xBC1, size: 0x8, addend: 0x0, symName: __ZNSt3__111__sort_implB7v160006INS_17_ClassicAlgPolicyEPiNS_6__lessIiiEEEEvT0_S5_RT1_, symObjAddr: 0x23C, symBinAddr: 0x100003E94, symSize: 0x64 }
+  - { offsetInCU: 0xC68, offset: 0xC68, size: 0x8, addend: 0x0, symName: __ZNSt3__123__debug_randomize_rangeB7v160006INS_17_ClassicAlgPolicyEPiS2_EEvT0_T1_, symObjAddr: 0x2A0, symBinAddr: 0x100003EF8, symSize: 0x14 }
+  - { offsetInCU: 0xCB9, offset: 0xCB9, size: 0x8, addend: 0x0, symName: __ZNSt3__113__unwrap_iterB7v160006IPiNS_18__unwrap_iter_implIS1_Lb1EEELi0EEEDTclsrT0_8__unwrapclsr3stdE7declvalIT_EEEES5_, symObjAddr: 0x2B4, symBinAddr: 0x100003F0C, symSize: 0x24 }
+  - { offsetInCU: 0xD50, offset: 0xD50, size: 0x8, addend: 0x0, symName: __ZNSt3__112__to_addressB7v160006IiEEPT_S2_, symObjAddr: 0x2FC, symBinAddr: 0x100003F54, symSize: 0x14 }
+  - { offsetInCU: 0x2F50, offset: 0x2F50, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C58, symSize: 0x1E0 }
+  - { offsetInCU: 0x3003, offset: 0x3003, size: 0x8, addend: 0x0, symName: __ZNSt3__118__unwrap_iter_implIPiLb1EE8__unwrapB7v160006ES1_, symObjAddr: 0x2D8, symBinAddr: 0x100003F30, symSize: 0x24 }
+...

@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/jeonsangmin/vscode/BOJ/백준/test.py","tests":[{"id":1718244799320,"input":"1\n*\n1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jeonsangmin/vscode/BOJ/백준/test.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: (40)교집합(투포인터)","url":"/Users/jeonsangmin/BOJ/C++ 인프런/(40)교집합(투포인터).cpp","tests":[{"id":1692950198466,"input":"5\n2 7 10 5 3\n5\n3 10 5 17 12","output":"3 5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jeonsangmin/BOJ/C++ 인프런/(40)교집합(투포인터).cpp","group":"local","local":true}

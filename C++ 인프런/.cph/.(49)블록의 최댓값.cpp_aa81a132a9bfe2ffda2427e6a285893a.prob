@@ -1,0 +1,1 @@
+{"name":"Local: (49)블록의 최댓값","url":"/Users/jeonsangmin/BOJ/C++ 인프런/(49)블록의 최댓값.cpp","tests":[{"id":1693888430144,"input":"4\n2 0 3 1\n1 1 2 3","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jeonsangmin/BOJ/C++ 인프런/(49)블록의 최댓값.cpp","group":"local","local":true}

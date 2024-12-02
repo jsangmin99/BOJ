@@ -1,19 +1,46 @@
-#include <stdio.h>
+#include <algorithm>
+#include <iostream>
+using namespace std;
 
-int main(int argc, char *argv[]) 
-{ 
-    int a[4] = {0, 2, 4, 8}; 
-    int b[3] = {}; 
-    int i = 0; // i를 0으로 초기화
-    int sum = 0;
+int t, m, n, k, x, y, ans;
+int map[50][50];
+int dx[4] = {0, 0, -1, 1};  // 상하좌우
+int dy[4] = {1, -1, 0, 0};
 
-    for (i = 1; i < 4; i++) // i를 초기화한 후에 반복문 시작
-    {
-        int* p1 = a + i; // p1을 반복문 내부에 정의
-        b[i-1] = p1 - (a + i - 1); // b[i-1]에 p1과 a[i-1] 사이의 거리 할당
-        sum += b[i-1] + a[i]; // sum에 b[i-1] + a[i] 더하기
-    } 
+void dfs(int x, int y) {
+    map[x][y] = 0;
+    for (int i = 0; i < 4; i++) {
+        int nx = x + dx[i];
+        int ny = y + dy[i];
+        if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
+        if (map[nx][ny] == 1) {
+            dfs(nx, ny);
+        }
+    }
+}
 
-    printf("%d", sum); 
-    return 0; 
+int main() {
+    cin >> t;
+    for (int q = 0; q < t; q++) {
+        cin >> m >> n >> k;
+        for (int i = 0; i < k; i++) {
+            cin >> x >> y;
+            map[x][y] = 1;
+        }
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (map[i][j] == 1) {
+                    dfs(i, j);
+                    ans++;
+                }
+            }
+        }
+
+        cout << ans << '\n';
+        ans = 0;
+        for (int i = 0; i < m; i++) {
+            fill(map[i], map[i] + n, 0);  // 0으로 초기화
+        }
+    }
 }

@@ -1,0 +1,1 @@
+{"name":"Local: (38)Inversion Sequence","url":"/Users/jeonsangmin/BOJ/C++ 인프런/(38)Inversion Sequence.cpp","tests":[{"id":1692947624417,"input":"8\n5 3 4 0 2 1 1 0","output":"4 8 6 2 5 1 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jeonsangmin/BOJ/C++ 인프런/(38)Inversion Sequence.cpp","group":"local","local":true}
