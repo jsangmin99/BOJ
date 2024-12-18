@@ -1,8 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -13,15 +11,19 @@ public class Main {
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
 
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> b - a); 
+
         st = new StringTokenizer(br.readLine());
-        List<Integer> arr = new ArrayList<>();
-        for(int i = 0; i< n; i++){
-            arr.add(Integer.parseInt(st.nextToken()));
+        for (int i = 0; i < n; i++) {
+            int num = Integer.parseInt(st.nextToken());
+            maxHeap.offer(num);
+
+            if (maxHeap.size() > k) {
+                maxHeap.poll();
+            }
         }
 
-        Collections.sort(arr);
-
-        System.out.println(arr.get(k - 1)); // K번째 수 출력
+        System.out.println(maxHeap.peek());
     }
     
 }
