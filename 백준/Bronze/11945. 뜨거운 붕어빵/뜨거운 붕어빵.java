@@ -2,24 +2,21 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int n = Integer.parseInt(st.nextToken());
-        int m = Integer.parseInt(st.nextToken());
-        Stack<Character> stack = new Stack<>();
-
-        for (int i = 0; i < n; i++) {
-            String s = br.readLine();
-            for (int j = 0; j < m; j++) {
-                stack.add(s.charAt(j));
-            }
-            for (int j = 0; j < m; j++) {
-                System.out.print(stack.pop());
-            }
-            System.out.println();
+        int N = Integer.parseInt(st.nextToken());
+        int M = Integer.parseInt(st.nextToken());
+        
+        StringBuilder[] result = new StringBuilder[N]; 
+        for (int i = 0; i < N; i++) {
+            String line = br.readLine();
+            result[i] = new StringBuilder(line).reverse(); 
         }
 
+        for (int i = 0; i < N; i++) {
+            System.out.println(result[i]);
+        }
     }
 }
