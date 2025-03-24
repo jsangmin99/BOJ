@@ -3,8 +3,9 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        
         int n = Integer.parseInt(br.readLine());
         List<Integer> arr = new ArrayList<>();
         
@@ -16,10 +17,10 @@ public class Main {
         arr.sort(Comparator.naturalOrder());
 
         for(int i : arr){
-            System.out.print(i + " ");
+            bw.write(i + " ");
         }
-
-
+        
+        bw.flush();
+        bw.close();
     }
-
 }
