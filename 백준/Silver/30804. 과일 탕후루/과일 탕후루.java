@@ -1,37 +1,42 @@
 import java.util.*;
+import java.io.*;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int[] fruits = new int[N];
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        for (int i = 0; i < N; i++) {
-            fruits[i] = sc.nextInt();
+//        1. 입력
+        int n = Integer.parseInt(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int[] fruits = new int[n];
+
+        for(int i = 0; i < n; i++){
+            fruits[i] = Integer.parseInt(st.nextToken());
         }
 
-        // 두 포인터 방식
-        Map<Integer, Integer> countMap = new HashMap<>();
+//        투포인터를 사용하여 양 옆에서 하나씩 제거
+        Map<Integer, Integer> countMap = new HashMap<>(); // <과일번호, 갯수>
         int left = 0;
         int maxLen = 0;
 
-        for (int right = 0; right < N; right++) {
-            // 현재 과일 추가
+        for(int right = 0; right < n; right++){
+//            현재 과일 추가
             countMap.put(fruits[right], countMap.getOrDefault(fruits[right], 0) + 1);
-
-            // 과일 종류가 2개 초과되면 왼쪽 포인터 이동
             while (countMap.size() > 2) {
-                countMap.put(fruits[left], countMap.get(fruits[left]) - 1);
-                if (countMap.get(fruits[left]) == 0) {
-                    countMap.remove(fruits[left]);
+                int leftFruit = fruits[left];
+                countMap.put(leftFruit, countMap.get(leftFruit) - 1);
+
+//                갯수가 0 이면 맵에서 삭제
+                if (countMap.get(leftFruit) == 0) {
+                    countMap.remove(leftFruit);
                 }
+
                 left++;
             }
-
-            // 현재 윈도우 크기 갱신
             maxLen = Math.max(maxLen, right - left + 1);
         }
 
         System.out.println(maxLen);
+
     }
 }
