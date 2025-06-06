@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b852045-630b-418f-9d64-4512a116cb6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/solvedac/AC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/BestChance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/Boj24268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/DNA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/GameAddiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/IOIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/UOS문자열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/그림비교.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/기술연계마스터임스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/눈덩이를굴려라.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/더하기1232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/뒤집어진소수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/뜨거운붕어빵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/민주주의.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/변형체스놀이다바바.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/쉬운최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/십부제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/아이템배치하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/연결요소의개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/연속부분수열합의갯수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/예쁜케이크.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/예상대진표.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/울타리공사.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/주식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/지수연산.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/첫번째항.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/칠리소스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/카드셋트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/케빈베이컨의6단계법칙.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/타일링2XN2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/토마토.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/토마토골드5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/트리만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/파도반수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solvedac/하키.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/AI선도대학.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/AI선도대학.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/Darius님한타안함.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/Darius님한타안함.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/가운데을말해요.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/가운데을말해요.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/공유기설치.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/공유기설치.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/너의평점은.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/너의평점은.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/늑대와양.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/늑대와양.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/두수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/두수의합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/로프.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/로프.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/문자열나누기.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/문자열나누기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/예산.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/예산.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/절대값힙.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/절대값힙.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/친구.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/친구.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedac/카드정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/solvedac/카드정렬하기.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jsangmin99&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MoonDokkebi/BOJ.git&quot;,
+    &quot;accountId&quot;: &quot;68594f20-a5c0-48d5-9f55-a70dc8bcef8c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qvPQLU8AM70vETqTlF8f7pvBGz" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.과자.executor&quot;: &quot;Run&quot;,
+    &quot;Application.특별한날.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jeonsangmin/vscode/BOJ/백준&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="과자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.과자" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="특별한날" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.특별한날" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.과자" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b852045-630b-418f-9d64-4512a116cb6a" name="Changes" comment="" />
+      <created>1735540060167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735540060167</updated>
+      <workItem from="1735540062341" duration="3156000" />
+      <workItem from="1735736142225" duration="33000" />
+      <workItem from="1740289218500" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

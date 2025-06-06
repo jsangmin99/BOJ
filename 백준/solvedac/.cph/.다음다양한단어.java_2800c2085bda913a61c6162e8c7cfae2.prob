@@ -1,0 +1,1 @@
+{"name":"Local: 다음다양한단어","url":"/Users/jeonsangmin/vscode/BOJ/백준/solvedac/다음다양한단어.java","tests":[{"id":1749128362260,"input":"abcdefghijklmnopqrstuvwzyx","output":"abcdefghijklmnopqrstuvx"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jeonsangmin/vscode/BOJ/백준/solvedac/다음다양한단어.java","group":"local","local":true}

@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 순영정렬 {
+public class 순열정렬 {
 
     static boolean isNoneDecreasing(int[] arr, int n) {
         int preve = 0;
@@ -36,7 +36,7 @@ public class 순영정렬 {
             int[] arr = new int[n];
             StringTokenizer st = new StringTokenizer(br.readLine());
             for (int i = 0; i < n; i++) {
-                arr[n] = Integer.parseInt(st.nextToken());
+                arr[i] = Integer.parseInt(st.nextToken());
             }
             System.out.println(isNoneDecreasing(arr, n) ? "YES" : "NO");
 
