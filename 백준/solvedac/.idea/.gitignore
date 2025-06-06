@@ -1,10 +1,76 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# ========================
+# Java project .gitignore
+# ========================
+
+# === Java class files ===
 *.class
-/out/
+
+# === Log files ===
+*.log
+
+# === BlueJ files ===
+*.ctxt
+
+# === Mobile Tools for Java (J2ME) ===
+.mtj.tmp/
+
+# === Package Files ===
+*.jar
+*.war
+*.ear
+
+# === Virtual machine crash logs ===
+hs_err_pid*
+
+# === Build directories (anywhere in the project) ===
+**/bin/
+**/build/
+**/out/
+**/target/
+**/dist/
+
+# === Eclipse ===
+.project
+.classpath
+.settings/
+.loadpath
+
+# === IntelliJ IDEA ===
+**/*.iml
+*.iws
+
+# === NetBeans ===
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# === VS Code ===
+.vscode/
+
+# === macOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Gradle ===
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# === Maven ===
+**/target/
+
+# === SBT ===
+**/target/
+**/lib_managed/
+**/src_managed/
+**/dist/
+**/project/target/
+**/project/project/
+
+# === Others ===
+*.swp
+*.swo
