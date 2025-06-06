@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7b03397-e080-4d55-8424-fcf0db40dc2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestChance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boj24268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DNA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSLR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameAddiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N과M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N과M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UOS문자열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZOAC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/경로찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/과일탕후루.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그대그머가되어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/그림비교.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기술연계마스터임스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/나선.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/눈덩이를굴려라.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/니모를찾아서.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다각형.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/더하기1232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뒤집어진소수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뜨거운붕어빵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/먹을것인가먹힐것인가.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문장.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/민주주의.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뱀과사다리게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/변형체스놀이다바바.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/빼기1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/순열정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/숫자게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/숫자놀이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/쉬운최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/십부제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/아이템배치하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘수업힙정렬1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/양념반후라이드반.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/연결요소의개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/연속부분수열합의갯수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/예쁜케이크.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/예상대진표.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/울타리공사.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/음식물피하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이중우선순위큐.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/자동차주차.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/적록색약.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/전투의신.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/지수연산.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/첫번째항.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/칠리소스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/카드셋트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/카잉달력.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/케빈베이컨의6단계법칙.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/타일링2XN2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/테트로미노.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/토마토.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/토마토골드5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/트리만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/트릭플라워.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/파도반수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/패턴.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/피보나치비슷한수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/하키.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/헌내기는친구가필요해.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI선도대학.java" beforeDir="false" afterPath="$PROJECT_DIR$/AI선도대학.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Darius님한타안함.java" beforeDir="false" afterPath="$PROJECT_DIR$/Darius님한타안함.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/가운데을말해요.java" beforeDir="false" afterPath="$PROJECT_DIR$/가운데을말해요.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/공유기설치.java" beforeDir="false" afterPath="$PROJECT_DIR$/공유기설치.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/너의평점은.java" beforeDir="false" afterPath="$PROJECT_DIR$/너의평점은.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/늑대와양.java" beforeDir="false" afterPath="$PROJECT_DIR$/늑대와양.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/두수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/두수의합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/로프.java" beforeDir="false" afterPath="$PROJECT_DIR$/로프.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열나누기.java" beforeDir="false" afterPath="$PROJECT_DIR$/문자열나누기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/예산.java" beforeDir="false" afterPath="$PROJECT_DIR$/예산.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/절대값힙.java" beforeDir="false" afterPath="$PROJECT_DIR$/절대값힙.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/친구.java" beforeDir="false" afterPath="$PROJECT_DIR$/친구.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/카드정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/카드정렬하기.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jsangmin99&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MoonDokkebi/BOJ.git&quot;,
+    &quot;accountId&quot;: &quot;68594f20-a5c0-48d5-9f55-a70dc8bcef8c&quot;
+  }
+}</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/문어.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2r1ovy05blihqpG1wkj9AtiC0hT" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AC.executor": "Run",
+    "Application.AI선도대학.executor": "Run",
+    "Application.BestChance.executor": "Run",
+    "Application.Boj24268.executor": "Run",
+    "Application.DNA.executor": "Run",
+    "Application.DSLR.executor": "Run",
+    "Application.Darius님한타안함.executor": "Run",
+    "Application.FourSquare.executor": "Run",
+    "Application.GameAddiction.executor": "Run",
+    "Application.IOIO.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.N과M.executor": "Run",
+    "Application.N과M2.executor": "Run",
+    "Application.Singleton.executor": "Run",
+    "Application.TestCommit.executor": "Run",
+    "Application.UOS문자열.executor": "Run",
+    "Application.Z.executor": "Run",
+    "Application.ZOAC.executor": "Run",
+    "Application.가운데을말해요.executor": "Run",
+    "Application.경로찾기.executor": "Run",
+    "Application.공유기설치.executor": "Run",
+    "Application.과일탕후루.executor": "Debug",
+    "Application.그대그머가되어.executor": "Run",
+    "Application.그림.executor": "Run",
+    "Application.그림비교.executor": "Run",
+    "Application.기술연계마스터임스.executor": "Run",
+    "Application.나선 (1).executor": "Run",
+    "Application.나선.executor": "Run",
+    "Application.눈덩이를굴려라.executor": "Run",
+    "Application.늑대와양.executor": "Run",
+    "Application.니모를찾아서.executor": "Run",
+    "Application.다각형.executor": "Run",
+    "Application.더하기1232.executor": "Run",
+    "Application.두수의합.executor": "Run",
+    "Application.뒤집어진소수.executor": "Run",
+    "Application.뜨거운붕어빵.executor": "Run",
+    "Application.로프.executor": "Run",
+    "Application.먹을것인가먹힐것인가.executor": "Run",
+    "Application.문어.executor": "Run",
+    "Application.문자열나누기.executor": "Run",
+    "Application.문장.executor": "Run",
+    "Application.미아노트.executor": "Run",
+    "Application.민주주의.executor": "Run",
+    "Application.방번호.executor": "Run",
+    "Application.뱀과사다리게임.executor": "Run",
+    "Application.변형체스놀이다바바.executor": "Run",
+    "Application.빼기1.executor": "Run",
+    "Application.색종이만들기.executor": "Run",
+    "Application.서든어택3.executor": "Run",
+    "Application.수들의합.executor": "Run",
+    "Application.수리공항승.executor": "Run",
+    "Application.순열정렬.executor": "Run",
+    "Application.순영정렬.executor": "Run",
+    "Application.숫자게임.executor": "Run",
+    "Application.숫자놀이.executor": "Run",
+    "Application.쉬운최단거리.executor": "Run",
+    "Application.십부제.executor": "Run",
+    "Application.아이템배치하기.executor": "Run",
+    "Application.알고리즘수업힙정렬1.executor": "Run",
+    "Application.양념반후라이드반.executor": "Run",
+    "Application.연결요소의개수.executor": "Run",
+    "Application.연속부분수열합의갯수 (1).executor": "Run",
+    "Application.연속부분수열합의갯수 (2).executor": "Run",
+    "Application.연속부분수열합의갯수.executor": "Run",
+    "Application.예쁜케이크.executor": "Run",
+    "Application.예산.executor": "Run",
+    "Application.예상대진표.executor": "Run",
+    "Application.울타리공사.executor": "Run",
+    "Application.원의둘레.executor": "Run",
+    "Application.음식물피하기.executor": "Run",
+    "Application.이중우선순위큐.executor": "Run",
+    "Application.자동차주차.executor": "Run",
+    "Application.적록색약.executor": "Run",
+    "Application.전투의신.executor": "Run",
+    "Application.절대값힙.executor": "Run",
+    "Application.정처기.executor": "Debug",
+    "Application.주식.executor": "Run",
+    "Application.지수연산.executor": "Run",
+    "Application.첫번째항.executor": "Run",
+    "Application.친구.executor": "Run",
+    "Application.칠리소스.executor": "Run",
+    "Application.카드셋트.executor": "Run",
+    "Application.카드정렬하기.executor": "Run",
+    "Application.카잉달력.executor": "Run",
+    "Application.케빈베이컨의6단계법칙.executor": "Run",
+    "Application.타일링2XN2.executor": "Run",
+    "Application.테트로미노.executor": "Run",
+    "Application.토너먼트.executor": "Run",
+    "Application.토마토.executor": "Run",
+    "Application.토마토골드5.executor": "Run",
+    "Application.트리만들기.executor": "Run",
+    "Application.파도반수열.executor": "Run",
+    "Application.패턴.executor": "Run",
+    "Application.피보나치비슷한수열.executor": "Run",
+    "Application.하키.executor": "Run",
+    "Application.헌내기는친구가필요해.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jeonsangmin/vscode/BOJ/백준/solvedac",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.패턴">
+    <configuration name="양념반후라이드반" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.양념반후라이드반" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="피보나치비슷한수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.피보나치비슷한수열" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="니모를찾아서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.니모를찾아서" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.숫자게임" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="패턴" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.패턴" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="방번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.방번호" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="늑대와양" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.늑대와양" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="정처기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.정처기" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="뒤집어진소수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.뒤집어진소수" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="등급계산하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.등급계산하기" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="너의평점은" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.너의평점은" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.문어" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="원의둘레" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.원의둘레" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="색종이만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.색종이만들기" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="뱀과사다리게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.뱀과사다리게임" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="테트로미노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.테트로미노" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="전투의신" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.전투의신" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="나선" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.나선" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="연결요소의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.연결요소의개수" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="하키" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.하키" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="쉬운최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.쉬운최단거리" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solvedac.문자열나누기" />
+      <module name="solvedac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solvedac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.패턴" />
+        <item itemvalue="Application.피보나치비슷한수열" />
+        <item itemvalue="Application.숫자게임" />
+        <item itemvalue="Application.니모를찾아서" />
+        <item itemvalue="Application.양념반후라이드반" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b03397-e080-4d55-8424-fcf0db40dc2a" name="Changes" comment="" />
+      <created>1735736176552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735736176552</updated>
+      <workItem from="1735736177715" duration="4962000" />
+      <workItem from="1735882184293" duration="2898000" />
+      <workItem from="1735996361422" duration="13672000" />
+      <workItem from="1736318840536" duration="62438000" />
+      <workItem from="1739173993224" duration="44668000" />
+      <workItem from="1739856614307" duration="35785000" />
+      <workItem from="1740233964015" duration="2093000" />
+      <workItem from="1740289260927" duration="32955000" />
+      <workItem from="1741787539248" duration="3280000" />
+      <workItem from="1741867674785" duration="7257000" />
+      <workItem from="1744701454749" duration="4656000" />
+      <workItem from="1745125533806" duration="2155000" />
+      <workItem from="1745296738181" duration="543000" />
+      <workItem from="1745304218514" duration="1010000" />
+      <workItem from="1745323790132" duration="447000" />
+      <workItem from="1745324260561" duration="4008000" />
+      <workItem from="1745389492953" duration="107000" />
+      <workItem from="1745389628680" duration="70000" />
+      <workItem from="1745389726268" duration="188000" />
+      <workItem from="1745389946791" duration="288000" />
+      <workItem from="1745390260249" duration="317000" />
+      <workItem from="1745390603313" duration="14594000" />
+      <workItem from="1748243458105" duration="21940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/수리공항승.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/수리공항승.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/수리공항승.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/수리공항승.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>9</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/과일탕후루.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/N과M.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/N과M.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/N과M.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/N과M.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/숫자게임.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>16</line>
+          <properties field="total" class="solvedac.Parent" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>17</line>
+          <properties field="v" class="solvedac.Parent" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>29</line>
+          <properties field="v" class="solvedac.Child" />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/정처기.java</url>
+          <line>18</line>
+          <properties class="solvedac.Parent" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
